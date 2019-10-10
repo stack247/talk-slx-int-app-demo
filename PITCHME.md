@@ -1,25 +1,5 @@
 ---
 
-@fa[prescription-bottle fa-1x]
-## what do we do?
-
----
-
-@fa[prescription-bottle fa-2x]
-## what do we do?
-
----
-
-@fa[prescription-bottle fa-lg]
-## what do we do?
-
----
-
-## @fa[prescription-bottle fa-2x]
-## what do we do?
-
----
-
 @css[text-35 text-bold slx-logo](supplylogix)
 
 @css[text-35 text-bold](demo)
