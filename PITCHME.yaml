@@ -11,3 +11,9 @@ theme-margins    : [ "0", "15px" ]
 
 highlight        : ir-black
 layout           : center-left
+
+#
+# Theme-Override Setting
+# Doc: https://gitpitch.com/docs/settings/custom-theme
+#
+theme-override   : assets/css/PITCHME.css
