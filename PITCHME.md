@@ -16,7 +16,7 @@
 
 ### @fa[dev] devops toolset
 
-### @fa[tools] tooling
+### @fa[toolbox] tooling
 
 ### @fa[archway] architecture
 
@@ -74,7 +74,7 @@
 ---
 
 @snap[north-west]
-### tech stack
+### @fa[cubes] tech stack
 @snap[text-05]
 - .net (framework / core)
 - asp.net mvc
@@ -91,7 +91,7 @@
 ---
 
 @snap[north-west]
-### cloud resources
+### @fa[cloud] cloud resources
 @snap[west text-05]
 - active directory
 - active directory b2c
@@ -131,7 +131,7 @@
 ---
 
 @snap[north-west]
-### architecture
+### @fa[archway] architecture
 @snap[text-05]
 - [glorious-arch-image](https://dev.azure.com/supplylogix/Internal/_git/InterviewProject?path=%2Finterview-questions%2Fslx-architecture.pdf&version=GBmaster)
 @snapend
@@ -140,7 +140,7 @@
 ---
 
 @snap[north-west]
-### devops toolsets
+### @fa[toolbox] devops toolsets
 @snap[text-05]
 - azure devops
 - boards
@@ -156,7 +156,7 @@
 ---
 
 @snap[north-west]
-### tooling
+### @fa[tools] tooling
 @snap[text-05]
 - slack
 - zoom
