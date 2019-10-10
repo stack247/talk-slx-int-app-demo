@@ -1,6 +1,8 @@
 ---
 
+@snap[text-purple]
 # supplylogix
+@snapend
 # demo
 
 @ul[text-07]
@@ -81,6 +83,33 @@
 - stream analytics jobs
 - virtual machines
 - virtual networks
+@snapend
+@snapend
+
+---
+
+@snap[north-west]
+### devops toolsets
+@snap[text-05]
+- azure devops
+- boards
+- pipelines
+- artifacts
+- wiki
+- timetracker
+@snapend
+@snapend
+
+---
+
+@snap[north-west]
+### tooling
+@snap[text-05]
+- slack
+- zoom
+- stormboard
+- jira
+- microsfot teams
 @snapend
 @snapend
 
