@@ -1,5 +1,18 @@
 ---
 
+@css[slx-logo](# supplylogix)
+
+---
+
+@css[slx-logo]# supplylogix
+
+---
+
+@css[slx-logo]
+# supplylogix
+
+---
+
 @snap[h1-purple]
 # supplylogix
 @snapend
