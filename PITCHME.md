@@ -32,15 +32,51 @@
 @snap[west span-50]
 - ## tech stack
 @ul[text-07]
-- .net
+- .net (framework / core)
+- asp.net mvc
+- hangfire
+- angular
+- javascript / typescript
+- protobuf-net / automapper / unity ioc
+- nsubstiture / xunit / jasmine / karma
+- sql / lucene index / serialized object
+- nuget / npm
 @ulend
 @snapend
 
 @snap[east span-50]
 - ## cloud resources
-@ul[text-07]
 - azure
-@ulend
+- active directory
+- active directory b2c
+- app services
+- application insights
+- automation accounts (runbook)
+- batch
+- cloud services (classic)
+- cosmos db (sql api)
+- databricks
+- data factories
+- data lake analytics
+- event grid
+- event hub
+- function app
+- hdinsight cluster
+- key vault
+- load balancer
+- log analytics
+- logic apps
+- monitor (log and alert)
+- powerbi embedded
+- redis cache
+- sendgrid (email)
+- service bus
+- service fabric cluster
+- sql databases (vcore, sql elastic pools)
+- storage accounts
+- stream analytics jobs
+- virtual machines
+- virtual networks
 @snapend
 
 ---?color=#1b1d1f
