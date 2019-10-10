@@ -1,6 +1,6 @@
 ---
 
-@fa[prescription-bottle fs-4x]
+@fa[prescription-bottle fs-4x h2-icon-color]
 ## what do we do?
 
 ---
