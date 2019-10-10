@@ -12,7 +12,7 @@
 
 ## what do we do?
 @ul[text-07]
-- products
+- app / product demo
 @ulend
 
 ---?color=#1b1d1f
@@ -28,8 +28,9 @@
 
 ---?color=#1b1d1f
 
+@ul
 @snap[west span-50]
-## tech stack
+- ## tech stack
 @ul[text-07]
 - .net
 @ulend
@@ -46,7 +47,7 @@
 
 ## where _we think_ we are going
 @ul[text-07]
-- app architecture: polyglot, microservices
+- app architecture: polyglot, serverless / paas, microservices
 - data archictecture: olap, ml / auto-ml / maybe-ai, data warehouse, reporting
 - devops: ci/cd vision
 @ulend
