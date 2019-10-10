@@ -1,5 +1,7 @@
 ---?color=#1b1d1f
 
+# Supplylogix Demo
+
 @ul[text-07]
 - What do we do?
 - Where are we today?
@@ -18,8 +20,9 @@
 ### Where are we today?
 @ul[text-07]
 - Tech stack
-- Azure resources
-- Azure DevOps
+- Cloud resources
+- DevOps toolset
+- Tooling
 @ulend
 
 ---?color=#1b1d1f
