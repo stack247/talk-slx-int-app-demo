@@ -1,6 +1,6 @@
 ---
 
-@snap[center-left]
+@snap[west]
 # supplylogix demo
 @snapend
 
@@ -30,9 +30,7 @@
 
 ---
 
-@ul
-@snap[west span-50]
-- ## tech stack
+## tech stack
 @snap[text-05]
 - .net (framework / core)
 - asp.net mvc
@@ -44,11 +42,13 @@
 - sql / lucene index / serialized object
 - nuget / npm
 @snapend
-@snapend
+
+---
 
 @snap[east span-50]
-- ## cloud resources
-@snap[text-06]
+
+## cloud resources
+@snap[east text-05]
 - azure
 - active directory
 - active directory b2c
@@ -64,6 +64,8 @@
 - event grid
 - event hub
 - function app
+@snapend
+@snap[west text-05]
 - hdinsight cluster
 - key vault
 - load balancer
@@ -80,7 +82,6 @@
 - stream analytics jobs
 - virtual machines
 - virtual networks
-@snapend
 @snapend
 
 ---
