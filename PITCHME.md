@@ -1,6 +1,5 @@
 ---
 
-@snap[west text-purple]
 # supplylogix
 # demo
 
@@ -9,7 +8,6 @@
 - where are we today?
 - where are we going?
 @ulend
-@snapend
 
 ---
 
@@ -19,9 +17,8 @@
 @ulend
 
 ---
-@snap[west]
-## where are we today?
 
+## where are we today?
 @ul[text-07]
 - tech stack
 - cloud resources
@@ -29,11 +26,10 @@
 - devops toolsets
 - tooling
 @ulend
-@snapend
 
 ---
 
-@snap[west]
+@snap[north-west]
 ### tech stack
 @snap[text-05]
 - .net (framework / core)
@@ -52,8 +48,6 @@
 
 @snap[north-west]
 ### cloud resources
-@snapend
-
 @snap[west text-05]
 - active directory
 - active directory b2c
@@ -87,6 +81,7 @@
 - stream analytics jobs
 - virtual machines
 - virtual networks
+@snapend
 @snapend
 
 ---
