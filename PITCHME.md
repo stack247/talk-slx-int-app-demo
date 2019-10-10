@@ -1,9 +1,19 @@
 test
 
+
+---
+@css[text-50 text-bold slx-logo](supplylogix)
+
+@css[text-40 text-bold slx-logo](supplylogix)
+
+@css[text-25 text-bold slx-logo](supplylogix)
+
+# demo
+
 ---
 
 @css[text-25 text-bold slx-logo](supplylogix)
-#demo
+# demo
 
 ---
 
