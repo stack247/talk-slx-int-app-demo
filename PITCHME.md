@@ -1,6 +1,6 @@
 ---
 
-@snap[text-purple]
+@snap[h1-purple]
 # supplylogix
 @snapend
 # demo
@@ -93,8 +93,10 @@
 @snap[text-05]
 - azure devops
 - boards
+- repo
 - pipelines
 - artifacts
+- test plans
 - wiki
 - timetracker
 @snapend
