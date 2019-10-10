@@ -10,11 +10,15 @@
 
 ---
 
+### @fa[cubes] stack
+
 ### @fa[cloud] cloud resources
 
 ### @fa[dev] devops toolset
 
 ### @fa[tools] tooling
+
+### @fa[archway] architecture
 
 ---
 
