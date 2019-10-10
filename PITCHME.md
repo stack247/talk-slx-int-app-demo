@@ -1,12 +1,21 @@
 
 ---
 
+@fa[cloud]### cloud resources
+
+
+---
+
+@fa[cloud] ### cloud resources
+
+---
+
 @fa[cloud]
 ### cloud resources
 
 ---
 
-@fa[cloud fa-lg]
+@fa[cloud fa-2x]### cloud resources
 
 ---
 
