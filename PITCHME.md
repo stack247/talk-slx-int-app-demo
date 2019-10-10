@@ -10,6 +10,14 @@
 
 ---
 
+### @fa[cloud] cloud resources
+
+### @fa[dev] devops toolset
+
+### @fa[tools] tooling
+
+---
+
 ### cloud resources @fa[cloud]
 
 ---
