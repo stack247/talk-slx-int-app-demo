@@ -26,7 +26,7 @@
 - tooling
 @ulend
 
----?color=#1b1d1f
+---
 
 @ul
 @snap[west span-50]
@@ -46,6 +46,7 @@
 
 @snap[east span-50]
 - ## cloud resources
+[text-07]
 - azure
 - active directory
 - active directory b2c
