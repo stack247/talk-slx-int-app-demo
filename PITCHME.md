@@ -13,6 +13,7 @@ test
 ---
 
 @css[text-30 text-bold slx-logo](supplylogix)
+
 @css[text-30 text-bold](demo)
 
 ---
@@ -51,6 +52,7 @@ test
 ---
 
 @css[text-30 text-bold slx-logo](supplylogix)
+
 @css[text-30 text-bold](demo)
 
 @ul[text-07]
