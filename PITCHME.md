@@ -1,33 +1,52 @@
 ---?color=#1b1d1f
 
-# Supplylogix Demo
+# supplylogix demo
 
 @ul[text-07]
-- What do we do?
-- Where are we today?
-- Where are we going?
+- what do we do?
+- where are we today?
+- where are we going?
 @ulend
 
 ---?color=#1b1d1f
 
-### What do we do?
+## what do we do?
 @ul[text-07]
-
+- products
 @ulend
 
 ---?color=#1b1d1f
 
-### Where are we today?
+## where are we today?
 @ul[text-07]
-- Tech stack
-- Cloud resources
-- DevOps toolset
-- Tooling
+- tech stack
+- cloud resources
+- architecture
+- devops toolsets
+- tooling
 @ulend
 
 ---?color=#1b1d1f
 
-### Where are we going?
+@snap[west span-50]
+## tech stack
 @ul[text-07]
+- .net
+@ulend
+@snapend
 
+@snap[east span-50]
+## cloud resources
+@ul[text-07]
+- azure
+@ulend
+@snapend
+
+---?color=#1b1d1f
+
+## where _we think_ we are going
+@ul[text-07]
+- app architecture: polyglot, microservices
+- data archictecture: olap, ml / auto-ml / maybe-ai, data warehouse, reporting
+- devops: ci/cd vision
 @ulend
