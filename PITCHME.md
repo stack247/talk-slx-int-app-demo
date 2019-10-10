@@ -1,10 +1,9 @@
 ---
 
 @snap[north-west]
-# supplylogix demo
-@snapend
+# supplylogix
+# demo
 
-@snap[south-west]
 @ul[text-07]
 - what do we do?
 - where are we today?
@@ -20,8 +19,10 @@
 @ulend
 
 ---
-
+@snap[north-west]
 ## where are we today?
+@snapend
+
 @ul[west text-07]
 - tech stack
 - cloud resources
@@ -47,7 +48,10 @@
 
 ---
 
+@snap[north-west]
 ### cloud resources
+@snapend
+
 @snap[west text-05]
 - active directory
 - active directory b2c
