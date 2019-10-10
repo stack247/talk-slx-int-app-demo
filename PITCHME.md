@@ -1,3 +1,21 @@
+
+---
+
+@fa[cloud]
+### cloud resources
+
+---
+
+@fa[cloud fa-lg]
+
+---
+
+@fa[cloud fa-2x]
+
+@fa[cloud fa-3x]
+
+@fa[cloud fa-4x]
+
 ---
 
 @css[text-35 text-bold slx-logo](supplylogix)
