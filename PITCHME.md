@@ -1,20 +1,39 @@
----
-
-@css[slx-logo](# supplylogix)
+test
 
 ---
 
-@css[slx-logo]# supplylogix
+@css[text-25 text-bold slx-logo](supplylogix)
+#demo
 
 ---
 
-@css[slx-logo]
+@css[text-25 text-bold slx-logo](supplylogix<br>demo)
+
+---
+
+@snap[midpoint slx-logo]
 # supplylogix
+@snapend
+# demo
 
+---
+
+@snap[midpoint h1-slx-logo]
+# supplylogix
+@snapend
+# demo
 
 ---
 
 @snap[h1-slx-logo]
+# supplylogix
+@snapend
+# demo
+
+
+---
+
+@snap[slx-logo]
 # supplylogix
 @snapend
 # demo
