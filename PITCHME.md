@@ -1,6 +1,8 @@
----?color=#1b1d1f
+---
 
+@snap[center-left]
 # supplylogix demo
+@snapend
 
 @ul[text-07]
 - what do we do?
@@ -8,14 +10,14 @@
 - where are we going?
 @ulend
 
----?color=#1b1d1f
+---
 
 ## what do we do?
 @ul[text-07]
 - app / product demo
 @ulend
 
----?color=#1b1d1f
+---
 
 ## where are we today?
 @ul[text-07]
@@ -31,7 +33,7 @@
 @ul
 @snap[west span-50]
 - ## tech stack
-@ul[text-07]
+@text[text-07]
 - .net (framework / core)
 - asp.net mvc
 - hangfire
@@ -41,12 +43,12 @@
 - nsubstiture / xunit / jasmine / karma
 - sql / lucene index / serialized object
 - nuget / npm
-@ulend
+@textend
 @snapend
 
 @snap[east span-50]
 - ## cloud resources
-[text-07]
+@css[text-06]
 - azure
 - active directory
 - active directory b2c
@@ -78,9 +80,9 @@
 - stream analytics jobs
 - virtual machines
 - virtual networks
-@snapend
+@cssend
 
----?color=#1b1d1f
+---
 
 ## where _we think_ we are going
 @ul[text-07]
