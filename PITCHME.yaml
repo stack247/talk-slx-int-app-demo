@@ -10,3 +10,4 @@ theme-controls   : [ "#C0C0C0" ]
 theme-margins    : [ "0", "15px" ]
 
 highlight        : ir-black
+layout           : center-left
