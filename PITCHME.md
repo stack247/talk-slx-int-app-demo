@@ -1,6 +1,6 @@
 ---
 
-@snap[north-west]
+@snap[west text-purple]
 # supplylogix
 # demo
 
@@ -19,20 +19,21 @@
 @ulend
 
 ---
-@snap[north-west]
+@snap[west]
 ## where are we today?
-@snapend
 
-@ul[west text-07]
+@ul[text-07]
 - tech stack
 - cloud resources
 - architecture
 - devops toolsets
 - tooling
 @ulend
+@snapend
 
 ---
 
+@snap[west]
 ### tech stack
 @snap[text-05]
 - .net (framework / core)
@@ -44,6 +45,7 @@
 - nsubstiture / xunit / jasmine / karma
 - sql / lucene index / serialized object
 - nuget / npm
+@snapend
 @snapend
 
 ---
