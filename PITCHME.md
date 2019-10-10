@@ -1,11 +1,11 @@
 ---
 
-## @fa[prescription-bottle fs-lg]
+@fa[prescription-bottle fs-4x]
 ## what do we do?
 
 ---
 
-## @fa[prescription-bottle fs-3x]
+@fa[prescription-bottle fs-3x]
 ## what do we do?
 
 ---
