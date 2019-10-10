@@ -1,11 +1,6 @@
 ---
 
-@fa[prescription-bottle fa-4x h2-icon-color]
-## what do we do?
-
----
-
-@fa[prescription-bottle fa-3x]
+@fa[prescription-bottle fa-1x]
 ## what do we do?
 
 ---
@@ -37,7 +32,7 @@
 
 ---
 
-@fa[prescription-bottle h2-icon-color]
+@fa[prescription-bottle fa-2x h2-icon-color]
 ## what do we do?
 @ul[text-07]
 - app / product [demo](https://qa.supplylogix.com)
@@ -45,7 +40,7 @@
 
 ---
 
-@fa[calendar-day h2-icon-color]
+@fa[calendar-day fa-2x h2-icon-color]
 ## where are we today?
 @ul[text-07]
 - tech stack
@@ -152,7 +147,7 @@
 
 ---
 
-@fa[route h2-icon-color]
+@fa[route fa-2x h2-icon-color]
 ## where _we think_ we are going
 @ul[text-07]
 - app architecture: polyglot, serverless / paas, microservices
