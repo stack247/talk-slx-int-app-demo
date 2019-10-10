@@ -1,45 +1,12 @@
-
 ---
 
-@fa[cloud]### cloud resources
+## @fa[prescription-bottle] work
 
+## @fa[route] where
 
----
+## @fa[directions] where
 
-@fa[cloud] ### cloud resources
-
----
-
-### @fa[cubes] stack
-
-### @fa[cloud] cloud resources
-
-### @fa[dev] devops toolset
-
-### @fa[toolbox] tooling
-
-### @fa[archway] architecture
-
----
-
-### cloud resources @fa[cloud]
-
----
-
-@fa[cloud]
-### cloud resources
-
----
-
-@fa[cloud fa-2x]### cloud resources
-
----
-
-@fa[cloud fa-2x]
-
-@fa[cloud fa-3x]
-
-@fa[cloud fa-4x]
+## @fa[calendar-day] today
 
 ---
 
