@@ -37,7 +37,7 @@
 @snapend
 
 @snap[east span-50]
-## cloud resources
+- ## cloud resources
 @ul[text-07]
 - azure
 @ulend
