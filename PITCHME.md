@@ -10,6 +10,10 @@
 
 ---
 
+### cloud resources @fa[cloud]
+
+---
+
 @fa[cloud]
 ### cloud resources
 
