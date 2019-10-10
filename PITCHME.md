@@ -1,14 +1,16 @@
 ---
 
-@snap[west]
+@snap[north-west]
 # supplylogix demo
 @snapend
 
+@snap[south-west]
 @ul[text-07]
 - what do we do?
 - where are we today?
 - where are we going?
 @ulend
+@snapend
 
 ---
 
@@ -20,7 +22,7 @@
 ---
 
 ## where are we today?
-@ul[text-07]
+@ul[west text-07]
 - tech stack
 - cloud resources
 - architecture
@@ -30,7 +32,7 @@
 
 ---
 
-## tech stack
+### tech stack
 @snap[text-05]
 - .net (framework / core)
 - asp.net mvc
@@ -45,11 +47,8 @@
 
 ---
 
-@snap[east span-50]
-
-## cloud resources
-@snap[east text-05]
-- azure
+### cloud resources
+@snap[west text-05]
 - active directory
 - active directory b2c
 - app services
@@ -64,9 +63,9 @@
 - event grid
 - event hub
 - function app
-@snapend
-@snap[west text-05]
 - hdinsight cluster
+@snapend
+@snap[east text-05]
 - key vault
 - load balancer
 - log analytics
