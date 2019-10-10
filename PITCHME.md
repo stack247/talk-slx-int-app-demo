@@ -12,8 +12,8 @@ test
 
 ---
 
-@css[text-25 text-bold slx-logo](supplylogix)
-# demo
+@css[text-30 text-bold slx-logo](supplylogix)
+@css[text-30 text-bold](demo)
 
 ---
 
@@ -50,10 +50,8 @@ test
 
 ---
 
-@snap[h1-purple]
-# supplylogix
-@snapend
-# demo
+@css[text-30 text-bold slx-logo](supplylogix)
+@css[text-30 text-bold](demo)
 
 @ul[text-07]
 - what do we do?
