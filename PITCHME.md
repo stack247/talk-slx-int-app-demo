@@ -1,15 +1,5 @@
 ---
 
-## @fa[prescription-bottle] work
-
-## @fa[route] where
-
-## @fa[directions] where
-
-## @fa[calendar-day] today
-
----
-
 @css[text-35 text-bold slx-logo](supplylogix)
 
 @css[text-35 text-bold](demo)
@@ -22,14 +12,14 @@
 
 ---
 
-## what do we do?
+## @fa[prescription-bottle] what do we do?
 @ul[text-07]
 - app / product [demo](https://qa.supplylogix.com)
 @ulend
 
 ---
 
-## where are we today?
+## @fa[calendar-day] where are we today?
 @ul[text-07]
 - tech stack
 - cloud resources
@@ -135,7 +125,7 @@
 
 ---
 
-## where _we think_ we are going
+## @fa[route] where _we think_ we are going
 @ul[text-07]
 - app architecture: polyglot, serverless / paas, microservices
 - data archictecture: olap, ml / auto-ml / maybe-ai, data warehouse, reporting
