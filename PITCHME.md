@@ -11,6 +11,14 @@
 @css[slx-logo]
 # supplylogix
 
+
+---
+
+@snap[h1-slx-logo]
+# supplylogix
+@snapend
+# demo
+
 ---
 
 @snap[h1-purple]
