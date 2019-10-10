@@ -33,7 +33,7 @@
 @ul
 @snap[west span-50]
 - ## tech stack
-@text[text-07]
+@snap[text-05]
 - .net (framework / core)
 - asp.net mvc
 - hangfire
@@ -43,12 +43,12 @@
 - nsubstiture / xunit / jasmine / karma
 - sql / lucene index / serialized object
 - nuget / npm
-@textend
+@snapend
 @snapend
 
 @snap[east span-50]
 - ## cloud resources
-@css[text-06]
+@snap[text-06]
 - azure
 - active directory
 - active directory b2c
@@ -80,7 +80,8 @@
 - stream analytics jobs
 - virtual machines
 - virtual networks
-@cssend
+@snapend
+@snapend
 
 ---
 
