@@ -1,59 +1,8 @@
-test
-
-
----
-@css[text-50 text-bold slx-logo](supplylogix)
-
-@css[text-40 text-bold slx-logo](supplylogix)
-
-@css[text-25 text-bold slx-logo](supplylogix)
-
-# demo
-
 ---
 
-@css[text-30 text-bold slx-logo](supplylogix)
+@css[text-35 text-bold slx-logo](supplylogix)
 
-@css[text-30 text-bold](demo)
-
----
-
-@css[text-25 text-bold slx-logo](supplylogix<br>demo)
-
----
-
-@snap[midpoint slx-logo]
-# supplylogix
-@snapend
-# demo
-
----
-
-@snap[midpoint h1-slx-logo]
-# supplylogix
-@snapend
-# demo
-
----
-
-@snap[h1-slx-logo]
-# supplylogix
-@snapend
-# demo
-
-
----
-
-@snap[slx-logo]
-# supplylogix
-@snapend
-# demo
-
----
-
-@css[text-30 text-bold slx-logo](supplylogix)
-
-@css[text-30 text-bold](demo)
+@css[text-35 text-bold](demo)
 
 @ul[text-07]
 - what do we do?
@@ -134,6 +83,13 @@ test
 - virtual machines
 - virtual networks
 @snapend
+@snapend
+
+---
+
+@snap[north-west]
+### architecture
+- arch-image
 @snapend
 
 ---
