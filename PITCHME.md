@@ -14,7 +14,7 @@
 
 ## what do we do?
 @ul[text-07]
-- app / product demo
+- app / product [demo](https://qa.supplylogix.com)
 @ulend
 
 ---
