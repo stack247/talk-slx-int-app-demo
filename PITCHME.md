@@ -89,7 +89,9 @@
 
 @snap[north-west]
 ### architecture
-- arch-image
+@snap[text-05]
+- [glorious-arch-image](https://dev.azure.com/supplylogix/Internal/_git/InterviewProject?path=%2Finterview-questions%2Fslx-architecture.pdf&version=GBmaster)
+@snapend
 @snapend
 
 ---
