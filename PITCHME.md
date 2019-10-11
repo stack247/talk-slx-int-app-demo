@@ -33,13 +33,15 @@
 ---
 
 @snap[north-west]
-### @fa[cubes] tech stack
+### @fa[cubes h3-icon-color] tech stack
 @snap[text-05]
+- server lang: c#, sql, hql, scala, python
+- client lang: javascript, jquery, highcharts, typescript, html, css
 - .net (framework / core)
-- asp.net mvc
+- asp.net mvc / web api
 - hangfire
-- angular
-- javascript / typescript
+- angular 7
+- dapper / fluent migrator
 - protobuf-net / automapper / unity ioc
 - nsubstiture / xunit / jasmine / karma
 - sql / lucene index / serialized object
@@ -50,8 +52,9 @@
 ---
 
 @snap[north-west]
-### @fa[cloud] cloud resources
+### @fa[cloud h3-icon-color] cloud resources
 @snap[west text-05]
+- [azure](https://portal.azure.com)
 - active directory
 - active directory b2c
 - app services
@@ -101,14 +104,17 @@
 @snap[north-west]
 ### @fa[toolbox] devops toolsets
 @snap[text-05]
-- azure devops
-- boards
-- repo
-- pipelines
-- artifacts
-- test plans
-- wiki
-- timetracker
+- [azure devops](https://dev.azure.com/supplylogix)
+  - boards
+  - repo (git)
+  - pipelines
+  - artifacts
+  - test plans
+  - wiki
+  - timetracker
+- lang: yaml, powershell
+- sonarqube
+- launch darkly
 @snapend
 @snapend
 
@@ -121,6 +127,7 @@
 - zoom
 - stormboard
 - jira
+- aha
 - microsfot teams
 @snapend
 @snapend
