@@ -116,11 +116,11 @@
 @snap[text-05]
 - linqpad script
 - slack
-- microsoft teams
-- zoom
+- microsoft office 365 (teams, onenote, onedrive, sharepoint)
 - stormboard
-- jira
+- zoom
 - aha
+- jira
 - ide: visual studio, vs code
 - azure emulator (storage, service fabric, cosmos)
 @snapend
