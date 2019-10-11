@@ -16,7 +16,7 @@
 
 ## @fa[prescription-bottle h2-icon-color] what do we do?
 @ul[text-07]
-- app / product [demo](https://qa.supplylogix.com)
+- app [demo](https://qa.supplylogix.com)
 @ulend
 
 ---
@@ -42,7 +42,7 @@
 - angular 7
 - dapper / fluent migrator
 - protobuf-net / automapper / unity ioc
-- nsubstiture / xunit / jasmine / karma
+- nsubstitute / xunit / jasmine / karma
 - sql / lucene index / serialized object
 - nuget / npm
 @snapend
