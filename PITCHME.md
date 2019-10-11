@@ -1,5 +1,6 @@
 ---
 
+@snap[west]
 @css[text-35 text-bold slx-logo](supplylogix)
 
 @css[text-35 text-bold](demo)
@@ -9,6 +10,7 @@
 - where are we today?
 - where are we going?
 @ulend
+@snapend
 
 ---
 
@@ -48,7 +50,7 @@
 ---
 
 ### @fa[cloud h3-icon-color] cloud resources
-@snap[north-west text-05]
+@snap[west text-05]
 - [azure](https://portal.azure.com)
 - active directory
 - active directory b2c
