@@ -48,7 +48,7 @@
 ---
 
 ### @fa[cloud h3-icon-color] cloud resources
-@snap[west text-05]
+@snap[north-west text-05]
 - [azure](https://portal.azure.com)
 - active directory
 - active directory b2c
@@ -112,12 +112,15 @@
 
 ### @fa[tools h3-icon-color] tooling
 @snap[text-05]
+- linqpad script
 - slack
+- microsoft teams
 - zoom
 - stormboard
 - jira
 - aha
-- microsfot teams
+- ide: visual studio, vs code
+- azure emulator (storage, service fabric, cosmos)
 @snapend
 
 ---
