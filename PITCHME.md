@@ -36,7 +36,7 @@
 @snap[text-05]
 - server lang: c#, sql, hql, scala, python
 - client lang: javascript, jquery, highcharts, typescript, html, css
-- .net (framework / core)
+- .net (standard / core / framework)
 - asp.net mvc / web api
 - hangfire
 - angular 7
@@ -127,9 +127,18 @@
 
 ---
 
-## @fa[route h2-icon-color] where _we think_ we are going
+## @fa[route h2-icon-color] where we _may be_ going?
 @ul[text-07]
-- app architecture: polyglot, serverless / paas, microservices, event sourcing, cqrs
-- data archictecture: olap, ml / auto-ml / maybe-ai, data warehouse, reporting
-- devops: ci/cd vision
+- app architecture
+  - polyglot
+  - serverless / paas
+  - microservices
+  - event sourcing
+  - cqrs
+- data archictecture
+  - olap
+  - data warehouse, reporting
+  - ml / auto-ml / maybe-ai
+- devops
+  - [ci/cd roadmap](https://mckessoncorp.sharepoint.com/sites/GRPSupplylogixIT2/_layouts/15/WopiFrame.aspx?sourcedoc={e293e61c-4951-4a1b-b06a-7d9520804d06}&action=edit&wd=target%28DevOps%20Playbook.one%7C146e2b16-3a48-437c-8e14-e7879d6d80cb%2FCI%5C%2FCD%20Roadmap%20III%7C0a3cbe3a-ee05-4a06-8d13-ea14da344608%2F%29)
 @ulend
