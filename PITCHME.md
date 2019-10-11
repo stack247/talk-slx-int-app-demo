@@ -12,8 +12,7 @@
 
 ---
 
-@fa[prescription-bottle fa-2x h2-icon-color]
-## what do we do?
+## @fa[prescription-bottle fa-2x h2-icon-color] what do we do?
 @ul[text-07]
 - app / product [demo](https://qa.supplylogix.com)
 @ulend
@@ -93,7 +92,7 @@
 ---
 
 @snap[north-west]
-### @fa[archway] architecture
+### @fa[archway h3-icon-color] architecture
 @snap[text-05]
 - [glorious-arch-image](https://dev.azure.com/supplylogix/Internal/_git/InterviewProject?path=%2Finterview-questions%2Fslx-architecture.pdf&version=GBmaster)
 @snapend
@@ -102,7 +101,7 @@
 ---
 
 @snap[north-west]
-### @fa[toolbox] devops toolsets
+### @fa[toolbox h3-icon-color] devops toolsets
 @snap[text-05]
 - [azure devops](https://dev.azure.com/supplylogix)
   - boards
@@ -121,7 +120,7 @@
 ---
 
 @snap[north-west]
-### @fa[tools] tooling
+### @fa[tools h3-icon-color] tooling
 @snap[text-05]
 - slack
 - zoom
@@ -137,7 +136,7 @@
 @fa[route fa-2x h2-icon-color]
 ## where _we think_ we are going
 @ul[text-07]
-- app architecture: polyglot, serverless / paas, microservices
+- app architecture: polyglot, serverless / paas, microservices, event sourcing, cqrs
 - data archictecture: olap, ml / auto-ml / maybe-ai, data warehouse, reporting
 - devops: ci/cd vision
 @ulend
