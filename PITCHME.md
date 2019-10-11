@@ -19,8 +19,7 @@
 
 ---
 
-@fa[calendar-day fa-2x h2-icon-color]
-## where are we today?
+## @fa[calendar-day h2-icon-color] where are we today?
 @ul[text-07]
 - tech stack
 - cloud resources
@@ -31,7 +30,6 @@
 
 ---
 
-@snap[north-west]
 ### @fa[cubes h3-icon-color] tech stack
 @snap[text-05]
 - server lang: c#, sql, hql, scala, python
@@ -46,11 +44,9 @@
 - sql / lucene index / serialized object
 - nuget / npm
 @snapend
-@snapend
 
 ---
 
-@snap[north-west]
 ### @fa[cloud h3-icon-color] cloud resources
 @snap[west text-05]
 - [azure](https://portal.azure.com)
@@ -87,20 +83,16 @@
 - virtual machines
 - virtual networks
 @snapend
-@snapend
 
 ---
 
-@snap[north-west]
 ### @fa[archway h3-icon-color] architecture
 @snap[text-05]
 - [glorious-arch-image](https://dev.azure.com/supplylogix/Internal/_git/InterviewProject?path=%2Finterview-questions%2Fslx-architecture.pdf&version=GBmaster)
 @snapend
-@snapend
 
 ---
 
-@snap[north-west]
 ### @fa[toolbox h3-icon-color] devops toolsets
 @snap[text-05]
 - [azure devops](https://dev.azure.com/supplylogix)
@@ -115,11 +107,9 @@
 - sonarqube
 - launch darkly
 @snapend
-@snapend
 
 ---
 
-@snap[north-west]
 ### @fa[tools h3-icon-color] tooling
 @snap[text-05]
 - slack
@@ -129,12 +119,10 @@
 - aha
 - microsfot teams
 @snapend
-@snapend
 
 ---
 
-@fa[route fa-2x h2-icon-color]
-## where _we think_ we are going
+## @fa[route h2-icon-color] where _we think_ we are going
 @ul[text-07]
 - app architecture: polyglot, serverless / paas, microservices, event sourcing, cqrs
 - data archictecture: olap, ml / auto-ml / maybe-ai, data warehouse, reporting
