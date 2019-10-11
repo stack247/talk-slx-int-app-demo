@@ -12,7 +12,7 @@
 
 ---
 
-## @fa[prescription-bottle fa-2x h2-icon-color] what do we do?
+## @fa[prescription-bottle h2-icon-color] what do we do?
 @ul[text-07]
 - app / product [demo](https://qa.supplylogix.com)
 @ulend
